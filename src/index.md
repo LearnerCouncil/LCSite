@@ -18,4 +18,3 @@ We would be happy if you would join us 😃
 - [How to Join](../how-to-join)
 - [Event Details](../event-details)
 - [Contact Us](../contact-us)
-
