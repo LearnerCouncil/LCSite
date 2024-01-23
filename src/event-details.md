@@ -11,7 +11,7 @@ layout: "base.njk"
 <script src="/scripts/timezones.js"></script>
 **Times are currently displayed in: <script>getTimeZone()</script>**
 
-## Minecraft Build Challenge Night
+## Minecraft Build Challenge
 
 *Tuesdays, <script>getRange('6:00 pm','7:30 pm')</script>*. Ages 9+
 
