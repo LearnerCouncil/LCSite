@@ -11,7 +11,7 @@ layout: "base.njk"
 <script src="/scripts/timezones.js"></script>
 **Times are currently displayed in: <script>getTimeZone()</script>**
 
-## Minecraft Build Challenge Night
+## Minecraft Build Challenge
 
 *Tuesdays, <script>getRange('6:00 pm','7:30 pm')</script>*. Ages 9+
 
@@ -29,5 +29,5 @@ Come join us as we play Minecraft minigames on the Learner Server!
 
 ## Special Events
 
-Keep tabs on our Social Media and the Discord server Announcements channel for information about our special events!
+Keep tabs on our [Social Media](../contact-us) and the Discord server Announcements channel for information about our special events!
 
