@@ -4,6 +4,8 @@
     --background: #ddd;
     --inverted-background: #333;
     --text-color: #000;
+    --link-color: #1672ce;
+    --visited-link-color: #551a8b;
 
     --navbar-background: #009CE0;
     --navbar-text: #000;
@@ -14,6 +16,8 @@
     --background: #333;
     --inverted-background: #ddd;
     --text-color: #fff;
+    --link-color: #1daace;
+    --visited-link-color: #c429cf;
 
     --navbar-background: #014DEA;
     --navbar-text: #fff;
@@ -46,6 +50,13 @@ main {
     max-width: 40em;
     /* Debug */
     /* background-color: aqua; */
+}
+
+a:link {
+    color: var(--link-color);
+}
+a:visited {
+    color: var(--visited-link-color);
 }
 
 h1 {
