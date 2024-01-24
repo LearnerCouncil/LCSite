@@ -1,32 +1,36 @@
 /* Colors */
 
 :root[color-mode="light"] {
-    --background: #ddd;
-    --inverted-background: #333;
+    --background: linear-gradient(0, #bad9eb 0%, #e3f0f7 100%);
+    --inverted-background: #000042;
     --text-color: #000;
-    --link-color: #1672ce;
-    --visited-link-color: #551a8b;
+    --link-color: #0B8E00;
+    --visited-link-color: #075600;
 
-    --navbar-background: #009CE0;
-    --navbar-text: #000;
-    --navbar-hover-background: #014DEA;
-    --navbar-hover-text: #fff;
+    --navbar-background: #3d2f20;
+    --navbar-text: #ead2b0;
+    --navbar-hover-background: #ead2b0;
+    --navbar-hover-text: #3d2f20;
 }
 :root[color-mode="dark"] {
-    --background: #333;
-    --inverted-background: #ddd;
+    --background: linear-gradient(0, #000024 0%, #000042 100%);
+    --inverted-background: #bad9eb;
     --text-color: #fff;
-    --link-color: #1daace;
-    --visited-link-color: #c429cf;
+    --link-color: #0B8E00;
+    --visited-link-color: #075600;
 
-    --navbar-background: #014DEA;
-    --navbar-text: #fff;
-    --navbar-hover-background: #009CE0;
-    --navbar-hover-text: #333;
+    --navbar-background: #3d2f20;
+    --navbar-text: #ead2b0;
+    --navbar-hover-background: #ead2b0;
+    --navbar-hover-text: #3d2f20;
 }
 
 
 /* Styling */
+
+:root {
+    min-height: 100%;
+}
 
 header {
     /* Debug */
@@ -39,7 +43,7 @@ header {
 
 body {
     font-family: sans-serif;
-    background-color: var(--background);
+    background: var(--background);
     color: var(--text-color);
 }
 
