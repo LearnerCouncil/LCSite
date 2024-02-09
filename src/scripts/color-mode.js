@@ -2,12 +2,11 @@ var colorMode = window.localStorage.getItem("color-mode");
 var colorModeButton = document.getElementById("color-mode-button");
 
 if (colorMode === null) {
-  colorMode = "light";
-  // if(window.matchMedia("(prefers-color-scheme: light)").matches) {
-  // 	colorMode = "light";
-  // } else {
-  // 	colorMode = "dark";
-  // }
+  if (window.matchMedia("(prefers-color-scheme: light)").matches) {
+    colorMode = "light";
+  } else {
+    colorMode = "dark";
+  }
 }
 update();
 
