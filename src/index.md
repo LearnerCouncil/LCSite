@@ -17,4 +17,5 @@ We would be happy if you would join us 😃
 ### Links
 - [How to Join](../how-to-join)
 - [Event Details](../event-details)
+- [Code of Conduct](../code-of-conduct)
 - [Contact Us](../contact-us)
