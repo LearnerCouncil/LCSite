@@ -1,5 +1,5 @@
 ---
-title: Discord Code of Conduct
+title: ALP Nature Learner Server Code of Conduct
 layout: "base.njk"
 ---
 
@@ -7,9 +7,11 @@ layout: "base.njk"
 
 **Last Updated: April 16th, 2024**
 
-Our Discord server was created during the COVID-19 pandemic, and is now a happy part of Addyse Lane Palagyi Nature Center and Preserve. It is devoted to the values of community, connection, and stewardship of the environment. We are a positive, accepting space designed to foster friendships, fun, and a variety of shared interests. Welcome!
+Our Discord server was created during the COVID-19 pandemic, and is now a happy part of Addyse Lane Palagyi Nature Center and Preserve. It is devoted to the values of community, connection, and stewardship of the environment. We are a positive, accepting space designed to foster friendships, fun, and a variety of shared interests. 
 
-**All policies provided in the Addyse Lane Palagyi Nature Center and Preserve Family Handbook apply to our Discord server as well. Discord Users must also abide by [Discord's Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms). *In addition:***
+Welcome!
+
+**All policies provided in the Addyse Lane Palagyi Nature Center and Preserve Family Handbook apply to our Discord server as well. Discord Users must also abide by [Discord's Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms).** ***In addition:***
 
 ## Act legally and ethically
 
