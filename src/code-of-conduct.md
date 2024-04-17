@@ -5,9 +5,11 @@ layout: "base.njk"
 
 # {{ title }}
 
+**Last Updated: April 16th, 2024**
+
 Our Discord server was created during the COVID-19 pandemic, and is now a happy part of Addyse Lane Palagyi Nature Center and Preserve. It is devoted to the values of community, connection, and stewardship of the environment. We are a positive, accepting space designed to foster friendships, fun, and a variety of shared interests. Welcome!
 
-**All policies provided in the Addyse Lane Palagyi Nature Center and Preserve Family Handbook apply to our Discord server as well. Discord Users must also abide by [Discord's Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms).** In addition:
+**All policies provided in the Addyse Lane Palagyi Nature Center and Preserve Family Handbook apply to our Discord server as well. Discord Users must also abide by [Discord's Community Guidelines](https://discord.com/guidelines) and [Terms of Service](https://discord.com/terms). *In addition:***
 
 ## Act legally and ethically
 
@@ -47,7 +49,7 @@ Joining the server under false pretenses will result in a permanent ban. Members
 Our server strives to be a welcoming, positive space, and especially to embrace those who may experience marginalization in their lives. 
 
 
-## We respect pronouns and names. 
+## We respect pronouns and names.
 
 Our bot, Cameron, has a pronoun feature. The given name used during registration is what will appear in our server list, not your Discord username; should you need to change the name displayed in our server at any time, please simply contact the Council.
 
@@ -86,7 +88,7 @@ Such consequences will be determined by adult facilitators and/or the Executive 
 
 Participation in ALPNCP’s Discord server is designed around fun and positive interactions.  Appropriate language, positive comments and helpful attitudes are all key to successful participation.   
 
-Reminders, Warnings, and Immediate Loss of Access
+### Reminders, Warnings, and Immediate Loss of Access
 
 **Reminders** to keep comments, communication, and language positive and appropriate are our first step in keeping the server a safe space for everyone. Generally, reminders come from the Council or adult facilitators, but they can also come from fellow participants. Reminders may be directed to an individual or to the group. 
 
@@ -115,6 +117,7 @@ In the case of a Permanent Loss of Access, the process is complete once the pare
 Except in the case of a permanent loss of access, a meeting with a user, the user’s parent/guardian, and the adult facilitator takes place. The focus is on restoring participation with a clear understanding of behavior expectations, and clear consequences if behaviors are not followed. Tools that can be used include a Behavior Agreement (formal or informal), restoring relationship(s) through an appropriate apology (written or verbal), and/or a defined period of time before returning.  
 
 Following the meeting, the adult facilitator will provide a summary of the plan to the parent to include the actions agreed to, consequences if the agreements are not kept, and a timeline (when they can ask to come back to the server, etc.) as needed.
+
 
 ***Members of the Council as well as our Discord bot, Cameron, and our adult facilitators are here to maintain this server for you and keep it welcoming to everyone. Please reach out to us if you are feeling uncomfortable, or if you have any questions! We can be reached at [discord.server@alpnature.org](mailto:discord.server@alpnature.org), or you can type "@The Council" to tag us in a post on the server.***
 
