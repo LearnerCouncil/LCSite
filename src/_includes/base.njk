@@ -1,57 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <link rel="stylesheet" href="/css/style.css" />
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2? family=Sora:wght@300;400;500;600&display=swap" rel="stylesheet"> 
-        <link rel="icon" href="/images/logo_pixel.png">
-        <title>{{ title }} - ALP Nature Learner Server</title>
-    </head>
+<head>
+  <link rel="stylesheet" href="/css/style.css" />
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2? family=Sora:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="icon" href="/images/logo_pixel.png">
+  <title>{{ title }} - ALP Nature Learner Server</title>
+</head>
 
-    <body>
-        <header>
-            {# Logo #}
-            <a href="/">
-                <div class="alp-logo-container">
-                    <img src="/images/logo.svg" alt="alp-logo">
-                </div>
-            </a> 
-    
-    
-            {# Dark Mode Button #}
-            <div class="color-mode-button-container">
-                <div id="color-mode-button"> </div>
-                <script src="/scripts/color-mode.js"></script>
-            </div>
-    
-    
-            {# Navbar #}
-            <div class="nav-bar-container">
-                <div class="nav-bar">
-                    <li>
-                        <a href="/">Home</a>
-                    </li>
-                    <li>
-                        <a href="/how-to-join">How to Join</a>
-                    </li>
-                    <li>
-                        <a href="/event-details">Event Details</a>
-                    </li>
-                    <li>
-                        <a href="/contact-us">Contact Us!</a>
-                    </li>
-                </div>
-            </div>
-        </header>
+<body>
+  <header>
+    {# Logo #}
+    <a href="/">
+      <div class="alp-logo-container">
+        <img src="/images/logo.svg" alt="alp-logo">
+      </div>
+    </a>
+
+    {# Dark Mode Button #}
+    <div class="color-mode-button-container">
+      <div id="color-mode-button"> </div>
+      <script src="/scripts/color-mode.js"></script>
+    </div>
 
 
-        {# Page Content #}
-        <main>
-            {{ content | safe }}
-        </main>
-    </body>
+    {# Navbar #}
+    <div class="nav-bar-container">
+      <div class="nav-bar">
+        <li>
+          <a href="/">Home</a>
+        </li>
+        <li>
+          <a href="/how-to-join">How to Join</a>
+        </li>
+        <li>
+          <a href="/event-details">Event Details</a>
+        </li>
+        <li>
+          <a href="/code-of-conduct">Code of Conduct</a>
+        </li>
+        <li>
+          <a href="/contact-us">Contact Us!</a>
+        </li>
+      </div>
+    </div>
+  </header>
+
+  {# Page Content #}
+  <main>
+    {{ content | safe }}
+  </main>
+</body>
+
 </html>
