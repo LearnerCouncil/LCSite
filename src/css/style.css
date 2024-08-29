@@ -4,6 +4,7 @@
     --background: linear-gradient(0, #bad9eb 0%, #e3f0f7 100%);
     --inverted-background: #000042;
     --text-color: #000;
+    --inverted-text-color: #fff;
     --link-color: #0B8E00;
     --visited-link-color: #075600;
 
@@ -16,6 +17,7 @@
     --background: linear-gradient(0, #000024 0%, #000042 100%);
     --inverted-background: #bad9eb;
     --text-color: #fff;
+    --inverted-text-color: #000;
     --link-color: #0B8E00;
     --visited-link-color: #075600;
 
@@ -141,4 +143,20 @@ footer {
     max-width: 100%;
     max-height: 100vh;
     margin: auto;
+}
+
+/* Big signup button */
+.signup-button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 3em;
+}
+.signup-button {
+    display: flex;
+    font-size: 1.75em;
+    padding: 0.5em 0.75em;
+    border-radius: 50px;
+    background-color: var(--inverted-background);
+    color: var(--inverted-text-color) !important;
+    text-decoration: none;
 }
